@@ -27,7 +27,7 @@
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tuusuario/PRUEBA-TECNICA.git
+   git clone https://github.com/CarlosMaldonado1998/PRUEBA-TECNICA-SPRINGBOOT.git
 
 
 ## Archivos adicionales
